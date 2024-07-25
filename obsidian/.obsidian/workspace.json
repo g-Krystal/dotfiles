@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "17935c12f836e602",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad2a597f82b3b9d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8ff2f517ba7fb75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_Inbox/Go Learning Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "838e1ecba998db84",
+    "type": "split",
+    "children": [
+      {
+        "id": "085735fbd1dba295",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f2e5999387b8fd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d48968c867ca480",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e4f00dc3b6dca9c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e635f24f34ba393",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a8b7d8a7cb262da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0382f51acc75b708",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0_Inbox/Go Learning Resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25a9cbb38aabe0cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0_Inbox/Go Learning Resources.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "399fd2e8d704037d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83b3b2b414a86116",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0_Inbox/Go Learning Resources.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e8ff2f517ba7fb75",
+  "lastOpenFiles": [
+    "0_Inbox/Todo.md~",
+    "1_Projects/Redesigning_My_Systems/Main.md",
+    "1_Projects/Redesigning_My_Systems/Setting_Up_Neovim.md~",
+    "1_Projects/Redesigning_My_Systems/Main.md~",
+    "1_Projects/Redesigning_My_Systems/Setting_Up_Terminal.md",
+    "1_Projects/Redesigning_My_Systems/Setting_Up_Neovim.md",
+    "josean.com/posts/how-to-setup-neovim-2024.md",
+    "josean.com/posts",
+    "josean.com",
+    "0 Inbox/Go Learning Resources.md",
+    "0 Inbox/My First Note.md",
+    "0 Inbox/My First Note.md~",
+    "0 Inbox/My Second Note.md",
+    "Exit.md",
+    "Welcome.md",
+    "4 Archives",
+    "3 Resources",
+    "2 Areas",
+    "1 Projects",
+    "0 Inbox"
+  ]
+}

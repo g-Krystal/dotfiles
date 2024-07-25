@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "5fbe64940d54a17d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6a0a265d368be5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2433e17d63a0237c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_Inbox/IdeaVimSetup.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8577db8d62e64003",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "94c362817f38c671",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a1dc1558b584e0e0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7ee3f073cec80a73",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2b85826c48a47bc5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d21d9237ea76c0b4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fb26bb964368af02",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "0_Inbox/IdeaVimSetup.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "40e91afb04a1f0df",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "0_Inbox/IdeaVimSetup.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0806cc9b5881fe8b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "0_Inbox/IdeaVimSetup.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2433e17d63a0237c",
+  "lastOpenFiles": [
+    "1_Projects/Redesigning_My_Systems/Setting_Up_Neovim.md",
+    "0 Inbox/Learn Go with Tests.md",
+    "0 Inbox/Go Learning Resources.md",
+    "0 Inbox/My Second Note.md",
+    "0 Inbox/My First Note.md"
+  ]
+}
